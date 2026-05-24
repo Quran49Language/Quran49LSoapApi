@@ -2,7 +2,8 @@ Quran by 49-languages Reviewed and Searched http://elrazi.azurewebsites.net/Qura
 
 SOAP-API-WSDL-Method:
 
-El-Razi Company – Canada,  have developed a web service languages, specification (WSDL). Calling this WSDL will help you in developing a new Search-Engine for Quran-by-49-languages. This WSDLS includes WEB-METHODS-API, which you can call the to search QURAN-BY-49-Languages by Text (i.e QuranSrchByText.html) or Verse-No (i.e. QuranSrchByNo.html). Also, you will get interpretation in IBN-Katheer, IBN-Manzour. You will achieve an output in XML and JSON-FORMAT to be using by REST-API, when consuming WSDL/ web-service. 
+El-Razi Company – Canada,  have developed a web service languages, specification (WSDL). Soap-WSDL
+El-Razi Company – Canada,  have developed a web service languages, specification (WSDL), enable you, using JAVA-code or any other language to search QURAN by a text with 49-language. Also, calling this WSDL will help you in developing a new Search-Engine for Quran-by-49-languages. This WSDLS includes WEB-METHODS-API, which you can call the to search QURAN-BY-49-Languages by Text (i.e QuranSrchByText.html) or Verse-No (i.e. QuranSrchByNo.html). Also, you will get interpretation in IBN-Katheer, IBN-Manzour. You will achieve an output in XML and JSON-FORMAT to be using by REST-API, when consuming WSDL/ web-service. 
 
 The WSDLS WEB-METHODS-API,  can be called by Java, .NET-C# or PYTHON which enable you to search QURAN-BY-49-Languages by text or verse no. including translation in English or IBN-Manzour. These WSDL-API, can be called to achieve results that will be utilized by Facebook, …, etc. For test-case I included in this link, sample HTML pages that provide access WSDLS, The following calls to this WSDLS using HTML with assistance, of JQUERY, JavaScript and AJAX.
 
