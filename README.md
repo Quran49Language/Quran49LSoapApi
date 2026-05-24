@@ -2,7 +2,7 @@
 Quran by 49-languages Reviewed and Searched
 http://elrazi.azurewebsites.net/Quran/
 
-El-Razi Company – Canada, please to present to Muslims Community a QURAN program launched at Microsoft AZURE-Protected-WebSite. A program reviewed and searched Quran by 49-languages with assistance of searching Arabic Tongue by Ibn-Manzour. These programs are in a bilingual manner using Arabic/English, and automatic be loaded and suited on PC/Mobile, they are published at these locations:
+El-Razi Company – Canada, please to present to Muslims Community a QURAN program launched at Microsoft AZURE-Protected-WebSite. A program reviewed and searched Quran by 49-languages with assistance of searching Arabic Tongue by Ibn-Manzour. These programs are in a bilingual manner using Arabic/English, and automatic be loaded and suited on PC/Mobile, they are published at these locations. Also, using Soap-WSDL El-Razi Company – Canada,  have developed a web service languages, specification (WSDL), enable you, using JAVA-code or any other language to search QURAN by a text with 49-language.
  
 Quran Search Engine by 49-Languages Reviewing Chapters
  
