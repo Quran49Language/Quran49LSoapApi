@@ -27,7 +27,7 @@ http://elrazi.azurewebsites.net/Quran/QuranSrchByNo.html
 
 From the search results, you will be able to get the chapters and verses for the selected language. You will achieve an output in XML and  JSON-FORMAT to be using by REST-API, when consuming WSDL/ web-service.
 
-
+- ##################################################################################
 - Use HTML Quran Search-by-e9-language:
 
 - Click URL:  http://elrazi.azurewebsites.net/Quran/HTML-Quran-SrchByText-By49Lang.html?srchText=شعوبا";
