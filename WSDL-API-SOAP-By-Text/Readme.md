@@ -42,7 +42,7 @@ From the search results, you will be able to get the chapters and verses for the
 - srchText ="nations et des tribus"; French 
 - srchText ="以便你們互相認識。";      Chinese
 - srchText ="एक-दूसरे को पहचानो।";     Hindi Indian
-- ######################################################################################################
+- ##################################################################################
 
                                         
 
