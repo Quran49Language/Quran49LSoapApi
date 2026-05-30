@@ -42,7 +42,8 @@ Click URL:  http://elrazi.azurewebsites.net/Quran/HTML-Quran-SrchByText-By49Lang
 - srchText ="pueblos y tribus";      Spanish 
 - srchText ="nations et des tribus"; French 
 - srchText ="以便你們互相認識。";      Chinese 
--- srchText ="एक-दूसरे को पहचानो।";     Hindi Indian 
+-- srchText ="एक-दूसरे को पहचानो।";     Hindi Indian
+  
 -- ########################################################
 
                                        ................................................     
