@@ -35,16 +35,18 @@ public class QuranCallSearchByText {
 	
 	public static void main(String[] args) {
 		
-	   //#############################################
-       String srchText =  "شعوبا";
+	   //############################################################
+       String srchText =  "شعوبا";                   //#### Arabic
 	   //
-       //String srchText ="قومیں";             
-	   //String srchText ="جماعتها";
-	   //String srchText ="nations and tribes";
-	   //String srchText ="kabileler";
-	   //String srchText ="pueblos y tribus";
-	   //String srchText ="nations et des tribus";
-	   //String srchText ="以便你們互相認識。";
+       //String srchText ="قومیں";                   //#### Urdo        
+	   //String srchText ="جماعتها";                  //#### Persian 
+	   //String srchText ="nations and tribes";    //#### English 
+	   //String srchText ="kabileler";             //#### Turkish 
+	   //String srchText ="pueblos y tribus";      //#### Spanish 
+	   //String srchText ="nations et des tribus"; //#### French 
+	   //String srchText ="以便你們互相認識。";      //#### Chinese 
+	   //String srchText ="एक-दूसरे को पहचानो।";      //#### Hindi Indian 
+	   //############################################################
 	   //
 	   srchText = srchText + "1";
 	   //#############################################
