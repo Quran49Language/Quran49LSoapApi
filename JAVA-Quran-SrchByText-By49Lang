@@ -48,7 +48,7 @@ public class QuranCallSearchByText {
 	   //String srchText ="एक-दूसरे को पहचानो।";      //#### Hindi Indian 
 	   //############################################################
 	   //
-	   srchText = srchText + "1";
+	   srchText = srchText + "1";                  //### + "0"  Details
 	   //#############################################
        QuranServices service = new QuranServices();
        QuranServicesSoap srvPort = service.getQuranServicesSoap();
