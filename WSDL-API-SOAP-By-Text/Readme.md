@@ -32,8 +32,7 @@ Use HTML Quran Search-by-e9-language:
 
 Click URL:  http://elrazi.azurewebsites.net/Quran/HTML-Quran-SrchByText-By49Lang.html?srchText=شعوبا";
 
--- ############################################################
-
+- ############################################################
 - srchText =  "شعوبا";                Arabic
 - srchText ="قومیں";                  Urdo        
 - srchText ="جماعتها";                 Persian 
@@ -41,10 +40,9 @@ Click URL:  http://elrazi.azurewebsites.net/Quran/HTML-Quran-SrchByText-By49Lang
 - srchText ="kabileler";             Turkish 
 - srchText ="pueblos y tribus";      Spanish 
 - srchText ="nations et des tribus"; French 
-- srchText ="以便你們互相認識。";      Chinese 
--- srchText ="एक-दूसरे को पहचानो।";     Hindi Indian
-  
--- ########################################################
+- srchText ="以便你們互相認識。";      Chinese
+- srchText ="एक-दूसरे को पहचानो।";     Hindi Indian
+- ########################################################
 
                                        ................................................     
 
