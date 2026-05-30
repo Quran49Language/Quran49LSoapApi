@@ -30,7 +30,23 @@ Quran-search engine by 49-languages by No:
 http://elrazi.azurewebsites.net/Quran/QuranSrchByNo.html
 
 
-                                       ................................................     
+- ##################################################################################
+- Use HTML Quran Search-by-e9-language:
+
+- Click URL:  http://elrazi.azurewebsites.net/Quran/HTML-Quran-SrchByText-By49Lang.html?srchText=شعوبا";
+
+- ############################################################
+- srchText =  "شعوبا";                Arabic
+- srchText ="قومیں";                  Urdo        
+- srchText ="جماعتها";                 Persian 
+- srchText ="nations and tribes";    English 
+- srchText ="kabileler";             Turkish 
+- srchText ="pueblos y tribus";      Spanish 
+- srchText ="nations et des tribus"; French 
+- srchText ="以便你們互相認識。";      Chinese
+- srchText ="एक-दूसरे को पहचानो।";     Hindi Indian
+- ##################################################################################
+
 
 
 The following operations are supported. For a formal definition, please review the Service Description.
